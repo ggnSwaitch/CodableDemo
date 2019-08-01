@@ -1,0 +1,34 @@
+{
+    "metadata":{
+        "responseInfo":{
+            "status":200,
+            "developerMessage":"OK",
+        }
+    },
+    "results":[
+        {
+            "title":"Ford Focus",
+            "body":"",
+            "details":[
+                {
+                    "colour":"Black",
+                    "transmission":"Auto"
+                }
+            ],
+            "registration":"Active",
+            "saleId":267,
+        },
+        {
+            "title":"Holden Astra",
+            "body":"",
+            "details":[
+                {
+                    "colour":"Gray",
+                    "transmission":"Manual"
+                }
+            ],
+            "registration":"Active",
+            "saleId":268,
+        }
+    ]
+}
